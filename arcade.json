@@ -1,0 +1,28 @@
+{
+	"name": "人體心血管系統的組成",
+	"version": "1.0.0.0",
+	"description": "心臟構造互動教材",
+	"id": "com.company.heart",
+	"unique-id": "4d0en1l947y",
+	"viewport-width": 1920,
+	"viewport-height": 1200,
+	"author": "",
+	"email": "",
+	"website": "",
+	"orientations": "landscape",
+	"c2version": "244",
+	"c3version": "r407.2",
+	"ife": false,
+	"used-plugins": [
+		"Sprite",
+		"video",
+		"Touch",
+		"Audio",
+		"Browser"
+	],
+	"used-behaviors": [
+		"Fade",
+		"DragnDrop",
+		"Flash"
+	]
+}
